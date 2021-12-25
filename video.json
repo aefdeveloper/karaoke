@@ -33,31 +33,31 @@
   [
     {
       "name_category": "Evie Tamala",
-      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+      "image": "file:///android_asset/evie.jpg"    
     }, {
       "name_category": "Ikke Nurjanah",
-      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+      "image": "file:///android_asset/ikke.jpg"    
     }, {
       "name_category": "Imam S Arifin",
-      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+      "image": "file:///android_asset/imam.jpg"    
     }, {
       "name_category": "Mansyur S",
-      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+      "image": "file:///android_asset/mansyur.jpg"    
     }, {
       "name_category": "Meggy Z",
-      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+      "image": "file:///android_asset/meggy.jpg"    
     }, {
       "name_category": "Rhoma Irama",
-      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+      "image": "file:///android_asset/rhoma.jpg"    
     }, {
       "name_category": "Rita Sugiarto",
-      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+      "image": "file:///android_asset/rita.jpg"    
     }, {
       "name_category": "Sabyan",
-      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+      "image": "file:///android_asset/sabyan.jpg"    
     }, {
       "name_category": "Via Vallen",
-      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+      "image": "file:///android_asset/via.jpg"    
     }
   ],
 
