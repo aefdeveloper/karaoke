@@ -1,0 +1,1092 @@
+{ 
+    
+"Ads": 
+  [
+    {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_open_ads":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "applovin_banner":"",
+      "applovin_inter":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "interval":5
+    }
+  ],
+
+    
+"More":
+  [
+
+  ],
+
+
+"Categories": 
+  [
+    {
+      "name_category": "Evie Tamala",
+      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+    }, {
+      "name_category": "Ikke Nurjanah",
+      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+    }, {
+      "name_category": "Imam S Arifin",
+      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+    }, {
+      "name_category": "Mansyur S",
+      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+    }, {
+      "name_category": "Meggy Z",
+      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+    }, {
+      "name_category": "Rhoma Irama",
+      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+    }, {
+      "name_category": "Rita Sugiarto",
+      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+    }, {
+      "name_category": "Sabyan",
+      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+    }, {
+      "name_category": "Via Vallen",
+      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+    }
+  ],
+
+
+"Video":
+  [
+        {
+      "id": 1,
+      "name_category": "Evie Tamala",
+      "title": "Duka",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/Duka.mp4",
+      "description": "Sedekah (Bahasa Arab transliterasi: sadakah) adalah pemberian seorang Muslim kepada orang lain secara sukarela dan ikhlas tanpa dibatasi oleh waktu dan jumlah tertentu. Sedekah lebih luas dari sekedar zakat maupun infak. Karena sedekah tidak hanya berarti mengeluarkan atau menyumbangkan harta."
+    },
+    {
+      "id": 2,
+      "name_category": "Evie Tamala",
+      "title": "Kandas",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/kandas.mp4",
+      "description": "Istighfar adalah bacaan untuk memohon ampun kepada Allah atas dosa-dosa yang diperbuat sebagai sarana seorang hamba untuk bertobat"
+    },
+    {
+      "id": 3,
+      "name_category": "Evie Tamala",
+      "title": "Nyanyian Rindu",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/Nyanyian-Rindu.mp4",
+      "description": "Jika sudah teguh menerapkan aturan dan mengendalikan hawa nafsu, manusia harus yakin pertolongan Allah SWT pasti diberikan."
+    },
+    {
+      "id": 4,
+      "name_category": "Evie Tamala",
+      "title": "Potret Tua",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/Potret-Tua.mp4",
+      "description": "Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
+    },
+    {
+      "id": 5,
+      "name_category": "Evie Tamala",
+      "title": "Selamat Malam",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/Selamat-Malam.mp4",
+      "description": "Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
+    },
+        {
+      "id": 6,
+      "name_category": "Evie Tamala",
+      "title": "Serigala Berbulu Domba",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/Srigala-Berbulu-Domba.mp4",
+      "description": "Sedekah (Bahasa Arab transliterasi: sadakah) adalah pemberian seorang Muslim kepada orang lain secara sukarela dan ikhlas tanpa dibatasi oleh waktu dan jumlah tertentu. Sedekah lebih luas dari sekedar zakat maupun infak. Karena sedekah tidak hanya berarti mengeluarkan atau menyumbangkan harta."
+    },
+    {
+      "id": 7,
+      "name_category": "Evie Tamala",
+      "title": "Suara Hati",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/Suara-Hati.mp4",
+      "description": "Istighfar adalah bacaan untuk memohon ampun kepada Allah atas dosa-dosa yang diperbuat sebagai sarana seorang hamba untuk bertobat"
+    },
+    {
+      "id": 8,
+      "name_category": "Evie Tamala",
+      "title": "Teman Biasa",
+      "image": "file:///android_asset/evie.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/evie-tamala/teman-biasa.mp4",
+      "description": "Jika sudah teguh menerapkan aturan dan mengendalikan hawa nafsu, manusia harus yakin pertolongan Allah SWT pasti diberikan."
+    },
+    {
+      "id": 9,
+      "name_category": "Ikke Nurjanah",
+      "title": "Cinta Dan Dilema",
+      "image": "file:///android_asset/ikke.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/ikke-nurjanah/Cinta-dan-dilema.mp4",
+      "description": ""
+    },
+    {,
+      "id": 10",
+      "name_category": "Ikke Nurjanah",
+      "title": "Memandangmu",
+      "image": "file:///android_asset/ikke.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/ikke-nurjanah/Memandangmu.mp4"
+      "description": "
+    },,
+    {",
+      "id": 11",
+      "name_category": "Ikke Nurjanah",
+      "title": "Sendiri Saja",
+      "image": "file:///android_asset/ikke.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/ikke-nurjanah/Sendiri-Saja.mp4
+      "description": ",
+    },",
+    {",
+      "id": 12",
+      "name_category": "Ikke Nurjanah",
+      "title": "Terhanyut Dalam Kemesraan"
+      "image": "file:///android_asset/ikke.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/ikke-nurjanah/Terhanyut-Dalam-Kemesraan.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 13",
+      "name_category": "Imam S Arifin"
+      "title": "Air Mata Perkawinan
+      "image": "file:///android_asset/imam.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Air-Mata-Perkawinan.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 14"
+      "name_category": "Imam S Arifin
+      "title": "Air Mata Perpisahan,
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Air-Mata-Perpisahan.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 15
+      "name_category": "Imam S Arifin,
+      "title": "Air Tuba",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Air-Tuba.mp4",
+      "description": "",
+    },"
+    {
+      "id": 16,
+      "name_category": "Imam S Arifin",
+      "title": "Body Lesung",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/body-lesung.mp4",
+      "description": ""
+    },
+    {,
+      "id": 17",
+      "name_category": "Imam S Arifin",
+      "title": "Buta Karena Cinta",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Buta-Karena-Cinta.mp4"
+      "description": "
+    },,
+    {",
+      "id": 18",
+      "name_category": "Imam S Arifin",
+      "title": "Debu Debu Jalanan",
+      "image": "file:///android_asset/imam.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Debu-Debu-Jalanan.mp4
+      "description": ",
+    },",
+    {",
+      "id": 19",
+      "name_category": "Imam S Arifin",
+      "title": "Dia Lelaki Aku Lelaki"
+      "image": "file:///android_asset/imam.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Dia-Lelaki-Aku-Lelaki.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 20",
+      "name_category": "Imam S Arifin"
+      "title": "Doa Suci
+      "image": "file:///android_asset/imam.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Doa-Suci.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 21"
+      "name_category": "Imam S Arifin
+      "title": "Hujan Duri,
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Hujan-Duri.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 22
+      "name_category": "Imam S Arifin,
+      "title": "Katanya",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Katanya.mp4",
+      "description": "",
+    },"
+    {
+      "id": 23,
+      "name_category": "Imam S Arifin",
+      "title": "Khana",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Khana.mp4",
+      "description": ""
+    },
+    {,
+      "id": 24",
+      "name_category": "Imam S Arifin",
+      "title": "Mahal",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Mahal.mp4"
+      "description": "
+    },,
+    {",
+      "id": 25",
+      "name_category": "Imam S Arifin",
+      "title": "Maya",
+      "image": "file:///android_asset/imam.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Maya.mp4
+      "description": ",
+    },",
+    {",
+      "id": 26",
+      "name_category": "Imam S Arifin",
+      "title": "Pagar Makan Tanaman"
+      "image": "file:///android_asset/imam.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Pagar-Makan-Tanaman.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 27",
+      "name_category": "Imam S Arifin"
+      "title": "Pelaminan Kelabu
+      "image": "file:///android_asset/imam.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Pelaminan-Kelabu.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 28"
+      "name_category": "Imam S Arifin
+      "title": "Penantian,
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Penantian.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 29
+      "name_category": "Imam S Arifin,
+      "title": "Rembulan Bersinar Lagi",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Rembulan-Bersinar-Lagi.mp4",
+      "description": "",
+    },"
+    {
+      "id": 30,
+      "name_category": "Imam S Arifin",
+      "title": "Sejengkal Tanah",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Sejengkal-Tanah.mp4",
+      "description": ""
+    },
+    {,
+      "id": 31",
+      "name_category": "Imam S Arifin",
+      "title": "Senandung Rembulan",
+      "image": "file:///android_asset/imam.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Senandung-rembulan.mp4"
+      "description": "
+    },,
+    {",
+      "id": 32",
+      "name_category": "Imam S Arifin",
+      "title": "Zubaidah",
+      "image": "file:///android_asset/imam.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/imam-s-arifin/Zubaidah.mp4
+      "description": ",
+    },",
+    {",
+      "id": 33",
+      "name_category": "Mansyur S",
+      "title": "Air Mata Perkawinan"
+      "image": "file:///android_asset/mansyur.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/air-mata-perkawinan.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 34",
+      "name_category": "Mansyur S"
+      "title": "Benalu Cinta
+      "image": "file:///android_asset/mansyur.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Benalu-Cinta.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 35"
+      "name_category": "Mansyur S
+      "title": "Benci,
+      "image": "file:///android_asset/mansyur.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Benci.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 36
+      "name_category": "Mansyur S,
+      "title": "Buta Karna Cinta",
+      "image": "file:///android_asset/mansyur.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/buta-karna-cinta.mp4",
+      "description": "",
+    },"
+    {
+      "id": 37,
+      "name_category": "Mansyur S",
+      "title": "Kertas Dan Api",
+      "image": "file:///android_asset/mansyur.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Kertas-Dan-Api.mp4",
+      "description": ""
+    },
+    {,
+      "id": 38",
+      "name_category": "Mansyur S",
+      "title": "Pagar Makan Tanaman",
+      "image": "file:///android_asset/mansyur.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Pagar-Makan-Tanaman.mp4"
+      "description": "
+    },,
+    {",
+      "id": 39",
+      "name_category": "Mansyur S",
+      "title": "Pelaminan Kelabu",
+      "image": "file:///android_asset/mansyur.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Pelaminan-Kelabu.mp4
+      "description": ",
+    },",
+    {",
+      "id": 40",
+      "name_category": "Mansyur S",
+      "title": "Pengorbanan"
+      "image": "file:///android_asset/mansyur.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Pengorbanan.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 41",
+      "name_category": "Mansyur S"
+      "title": "Sejengkal Tanah
+      "image": "file:///android_asset/mansyur.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Sejengkal-Tanah.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 42"
+      "name_category": "Mansyur S
+      "title": "Terimalah Dia Yang Malang,
+      "image": "file:///android_asset/mansyur.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/Terimalah-Dia-Yang-Malang.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 43
+      "name_category": "Mansyur S,
+      "title": "Untuk Apa Lagi",
+      "image": "file:///android_asset/mansyur.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/mansyur-s/untuk-apa-lagi.mp4",
+      "description": "",
+    },"
+    {
+      "id": 44,
+      "name_category": "Meggy Z",
+      "title": "Ada Cinta",
+      "image": "file:///android_asset/meggy.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/meggy-z/ada-cinta.mp4",
+      "description": ""
+    },
+    {,
+      "id": 45",
+      "name_category": "Meggy Z",
+      "title": "Cinta Hitam",
+      "image": "file:///android_asset/meggy.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/meggy-z/cinta-hitam.mp4"
+      "description": "
+    },,
+    {",
+      "id": 46",
+      "name_category": "Meggy Z",
+      "title": "Mahal",
+      "image": "file:///android_asset/meggy.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/meggy-z/mahal.mp4
+      "description": ",
+    },",
+    {",
+      "id": 47",
+      "name_category": "Meggy Z",
+      "title": "Sakit Gigi"
+      "image": "file:///android_asset/meggy.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/meggy-z/Sakit-Gigi.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 48",
+      "name_category": "Rhoma Irama"
+      "title": "Anak Yang Malang
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Anak-Yang-Malang.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 49"
+      "name_category": "Rhoma Irama
+      "title": "Ani,
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Ani.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 50
+      "name_category": "Rhoma Irama,
+      "title": "Antara Teman Dan Kasih",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/antara-teman-dan-kasih.mp4",
+      "description": "",
+    },"
+    {
+      "id": 51,
+      "name_category": "Rhoma Irama",
+      "title": "Bergadang",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/bergadang.mp4",
+      "description": ""
+    },
+    {,
+      "id": 52",
+      "name_category": "Rhoma Irama",
+      "title": "Berkelana",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Berkelana.mp4"
+      "description": "
+    },,
+    {",
+      "id": 53",
+      "name_category": "Rhoma Irama",
+      "title": "Bimbang",
+      "image": "file:///android_asset/rhoma.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Bimbang.mp4
+      "description": ",
+    },",
+    {",
+      "id": 54",
+      "name_category": "Rhoma Irama",
+      "title": "Boleh Saja"
+      "image": "file:///android_asset/rhoma.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/boleh-saja.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 55",
+      "name_category": "Rhoma Irama"
+      "title": "Buah Duri Neraka
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Buah-Duri-Neraka.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 56"
+      "name_category": "Rhoma Irama
+      "title": "Bulan Bintang,
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Bulan-Bintang.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 57
+      "name_category": "Rhoma Irama,
+      "title": "Bunga Syurga",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/bunga-syurga.mp4",
+      "description": "",
+    },"
+    {
+      "id": 58,
+      "name_category": "Rhoma Irama",
+      "title": "Buta Tuli",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/buta-tuli.mp4",
+      "description": ""
+    },
+    {,
+      "id": 59",
+      "name_category": "Rhoma Irama",
+      "title": "Camelia",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/camelia.mp4"
+      "description": "
+    },,
+    {",
+      "id": 60",
+      "name_category": "Rhoma Irama",
+      "title": "Citra Cinta",
+      "image": "file:///android_asset/rhoma.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/citra-cinta.mp4
+      "description": ",
+    },",
+    {",
+      "id": 61",
+      "name_category": "Rhoma Irama",
+      "title": "Gali Lobang Tutup Lubang"
+      "image": "file:///android_asset/rhoma.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/gali-lobang-tutup-lubang.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 62",
+      "name_category": "Rhoma Irama"
+      "title": "Gelandangan
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/GELANDANGAN.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 63"
+      "name_category": "Rhoma Irama
+      "title": "Harga Diri,
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/harga-diri.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 64
+      "name_category": "Rhoma Irama,
+      "title": "Haruskah Berakhir",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/haruskah-berakhir.mp4",
+      "description": "",
+    },"
+    {
+      "id": 65,
+      "name_category": "Rhoma Irama",
+      "title": "Ibukota",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/ibukota.mp4",
+      "description": ""
+    },
+    {,
+      "id": 66",
+      "name_category": "Rhoma Irama",
+      "title": "Istri Saleha",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Istri-Saleha.mp4"
+      "description": "
+    },,
+    {",
+      "id": 67",
+      "name_category": "Rhoma Irama",
+      "title": "Kehilangan Tongkat",
+      "image": "file:///android_asset/rhoma.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Kehilangan-Tongkat.mp4
+      "description": ",
+    },",
+    {",
+      "id": 68",
+      "name_category": "Rhoma Irama",
+      "title": "Kehilangan"
+      "image": "file:///android_asset/rhoma.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Kehilangan.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 69",
+      "name_category": "Rhoma Irama"
+      "title": "Kematian
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/kematian.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 70"
+      "name_category": "Rhoma Irama
+      "title": "Keramat,
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/keramat.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 71
+      "name_category": "Rhoma Irama,
+      "title": "Kerinduan",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/kerinduan.mp4",
+      "description": "",
+    },"
+    {
+      "id": 72,
+      "name_category": "Rhoma Irama",
+      "title": "Lain Kepala Lain Hati",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/lain-kepala-lain-hati.mp4",
+      "description": ""
+    },
+    {,
+      "id": 73",
+      "name_category": "Rhoma Irama",
+      "title": "Mandul",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/mandul.mp4"
+      "description": "
+    },,
+    {",
+      "id": 74",
+      "name_category": "Rhoma Irama",
+      "title": "Melodi Cinta",
+      "image": "file:///android_asset/rhoma.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/MELODI-CINTA.mp4
+      "description": ",
+    },",
+    {",
+      "id": 75",
+      "name_category": "Rhoma Irama",
+      "title": "Menunggu"
+      "image": "file:///android_asset/rhoma.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/menunggu.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 76",
+      "name_category": "Rhoma Irama"
+      "title": "Mutiara Hidupku
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Mutiara-Hidupku.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 77"
+      "name_category": "Rhoma Irama
+      "title": "Narapidana,
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Narapidana.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 78
+      "name_category": "Rhoma Irama,
+      "title": "Patah Hati",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/PATAH-HATI.mp4",
+      "description": "",
+    },"
+    {
+      "id": 79,
+      "name_category": "Rhoma Irama",
+      "title": "Pedih",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/pedih.mp4",
+      "description": ""
+    },
+    {,
+      "id": 80",
+      "name_category": "Rhoma Irama",
+      "title": "Perjuangan Dan Doa",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Perjuangan-Dan-Doa.mp4"
+      "description": "
+    },,
+    {",
+      "id": 81",
+      "name_category": "Rhoma Irama",
+      "title": "Pertemuan",
+      "image": "file:///android_asset/rhoma.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/pertemuan.mp4
+      "description": ",
+    },",
+    {",
+      "id": 82",
+      "name_category": "Rhoma Irama",
+      "title": "Piano"
+      "image": "file:///android_asset/rhoma.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/PIANO.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 83",
+      "name_category": "Rhoma Irama"
+      "title": "Primadona Desa
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Primadona-Desa.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 84"
+      "name_category": "Rhoma Irama
+      "title": "Raib,
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Raib.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 85
+      "name_category": "Rhoma Irama,
+      "title": "Roda Kehidupan",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/roda-kehidupan.mp4",
+      "description": "",
+    },"
+    {
+      "id": 86,
+      "name_category": "Rhoma Irama",
+      "title": "Sebujur Bangkai",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/SEBUJUR-BANGKAI.mp4",
+      "description": ""
+    },
+    {,
+      "id": 87",
+      "name_category": "Rhoma Irama",
+      "title": "Setetes Air Hina",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/setetes-air-hina.mp4"
+      "description": "
+    },,
+    {",
+      "id": 88",
+      "name_category": "Rhoma Irama",
+      "title": "Suratan",
+      "image": "file:///android_asset/rhoma.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Suratan.mp4
+      "description": ",
+    },",
+    {",
+      "id": 89",
+      "name_category": "Rhoma Irama",
+      "title": "Syahdu"
+      "image": "file:///android_asset/rhoma.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/SYAHDU.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 90",
+      "name_category": "Rhoma Irama"
+      "title": "Tabir Kepalsuan
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Tabir-Kepalsuan.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 91"
+      "name_category": "Rhoma Irama
+      "title": "Tak Berdaya,
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/TAK-BERDAYA.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 92
+      "name_category": "Rhoma Irama,
+      "title": "Tambatan Jiwa",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Tambatan-Jiwa.mp4",
+      "description": "",
+    },"
+    {
+      "id": 93,
+      "name_category": "Rhoma Irama",
+      "title": "Taqwa",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Taqwa.mp4",
+      "description": ""
+    },
+    {,
+      "id": 94",
+      "name_category": "Rhoma Irama",
+      "title": "Terkesima",
+      "image": "file:///android_asset/rhoma.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Terkesima.mp4"
+      "description": "
+    },,
+    {",
+      "id": 95",
+      "name_category": "Rhoma Irama",
+      "title": "Virus Corona",
+      "image": "file:///android_asset/rhoma.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Virus-Corona.mp4
+      "description": ",
+    },",
+    {",
+      "id": 96",
+      "name_category": "Rhoma Irama",
+      "title": "Yang"
+      "image": "file:///android_asset/rhoma.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/Yang.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 97",
+      "name_category": "Rhoma Irama"
+      "title": "Yatim Piatu
+      "image": "file:///android_asset/rhoma.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rhoma-irama/YATIM-PIATU.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 98"
+      "name_category": "Rita Sugiartio
+      "title": "Bara Cinta,
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Bara-Cinta.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 99
+      "name_category": "Rita Sugiartio,
+      "title": "Bersabarlah",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Bersabarlah.mp4",
+      "description": "",
+    },"
+    {
+      "id": 100,
+      "name_category": "Rita Sugiartio",
+      "title": "Bumipun Turut Menangis",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/BUMIPUN-TURUT-MENANGIS.mp4",
+      "description": ""
+    },
+    {,
+      "id": 101",
+      "name_category": "Rita Sugiartio",
+      "title": "Cinta Berawan",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Cinta-Berawan.mp4"
+      "description": "
+    },,
+    {",
+      "id": 102",
+      "name_category": "Rita Sugiartio",
+      "title": "Cinta Segitiga",
+      "image": "file:///android_asset/rita.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Cinta-Segitiga.mp4
+      "description": ",
+    },",
+    {",
+      "id": 103",
+      "name_category": "Rita Sugiartio",
+      "title": "Dua Kursi"
+      "image": "file:///android_asset/rita.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Dua-Kursi.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 104",
+      "name_category": "Rita Sugiartio"
+      "title": "Fatamorgana
+      "image": "file:///android_asset/rita.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Fatamorgana.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 105"
+      "name_category": "Rita Sugiartio
+      "title": "Goyah,
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Goyah.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 106
+      "name_category": "Rita Sugiartio,
+      "title": "Idaman Hati",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Idaman-Hati.mp4",
+      "description": "",
+    },"
+    {
+      "id": 107,
+      "name_category": "Rita Sugiartio",
+      "title": "Iming Iming",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/IMING-IMING.mp4",
+      "description": ""
+    },
+    {,
+      "id": 108",
+      "name_category": "Rita Sugiartio",
+      "title": "Kupu Kupu",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Kupu-Kupu.mp4"
+      "description": "
+    },,
+    {",
+      "id": 109",
+      "name_category": "Rita Sugiartio",
+      "title": "Lukaku",
+      "image": "file:///android_asset/rita.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Lukaku.mp4
+      "description": ",
+    },",
+    {",
+      "id": 110",
+      "name_category": "Rita Sugiartio",
+      "title": "Manja"
+      "image": "file:///android_asset/rita.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Manja.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 111",
+      "name_category": "Rita Sugiartio"
+      "title": "Oleh Oleh
+      "image": "file:///android_asset/rita.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Oleh-oleh.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 112"
+      "name_category": "Rita Sugiartio
+      "title": "Percuma,
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/PERCUMA.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 113
+      "name_category": "Rita Sugiartio,
+      "title": "Pertemuan",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Pertemuan.mp4",
+      "description": "",
+    },"
+    {
+      "id": 114,
+      "name_category": "Rita Sugiartio",
+      "title": "Pria Idaman",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Pria-Idaman.mp4",
+      "description": ""
+    },
+    {,
+      "id": 115",
+      "name_category": "Rita Sugiartio",
+      "title": "Sasaran Emosi",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Sasaran-Emosi.mp4"
+      "description": "
+    },,
+    {",
+      "id": 116",
+      "name_category": "Rita Sugiartio",
+      "title": "Sejuta Luka",
+      "image": "file:///android_asset/rita.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Sejuta-Luka.mp4
+      "description": ",
+    },",
+    {",
+      "id": 117",
+      "name_category": "Rita Sugiartio",
+      "title": "Si Kecil"
+      "image": "file:///android_asset/rita.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Si-Kecil.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 118",
+      "name_category": "Rita Sugiartio"
+      "title": "Terlalu Rindu
+      "image": "file:///android_asset/rita.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Terlalu-Rindu.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 119"
+      "name_category": "Rita Sugiartio
+      "title": "Tersisih,
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Tersisih.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 120
+      "name_category": "Rita Sugiartio,
+      "title": "Tulang Rusuk",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Tulang-Rusuk.mp4",
+      "description": "",
+    },"
+    {
+      "id": 121,
+      "name_category": "Rita Sugiartio",
+      "title": "Zaenal",
+      "image": "file:///android_asset/rita.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/rita-sugiartio/Zaenal.mp4",
+      "description": ""
+    },
+    {,
+      "id": 122",
+      "name_category": "Sabyan",
+      "title": "Deen Assalam",
+      "image": "file:///android_asset/sabyan.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/sabyan/Deen-Assalam.mp4"
+      "description": "
+    },,
+    {",
+      "id": 123",
+      "name_category": "Sabyan",
+      "title": "Ya Asyiqol Musthofa",
+      "image": "file:///android_asset/sabyan.jpg"
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/sabyan/Ya-Asyiqol-Musthofa.mp4
+      "description": ",
+    },",
+    {",
+      "id": 124",
+      "name_category": "Sabyan",
+      "title": "Ya Maulana"
+      "image": "file:///android_asset/sabyan.jpg
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/sabyan/Ya-Maulana.mp4,
+      "description": "",
+    },",
+    {",
+      "id": 125",
+      "name_category": "Via Vallen"
+      "title": "Ayah
+      "image": "file:///android_asset/via.jpg,
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/via-vallen/Ayah.mp4",
+      "description": "",
+    },",
+    {",
+      "id": 126"
+      "name_category": "Via Vallen
+      "title": "Bagaikan Langit Dan Bumi,
+      "image": "file:///android_asset/via.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/via-vallen/BAGAIKAN-LANGIT-DAN-BUMI.mp4",
+      "description": "",
+    },",
+    {"
+      "id": 127
+      "name_category": "Via Vallen,
+      "title": "Cerita Anak Jalanan",
+      "image": "file:///android_asset/via.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/via-vallen/Cerita-Anak-Jalanan.mp4",
+      "description": "",
+    },"
+    {
+      "id": 128,
+      "name_category": "Via Vallen",
+      "title": "Sakit Hatiku",
+      "image": "file:///android_asset/via.jpg",
+      "link_video": "http://tukumaning.miemiebrownie.com/Karaoke/via-vallen/sakit-hatiku.mp4",
+      "description": ""
+    }	
+  ]
+}
